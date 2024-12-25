@@ -57,3 +57,25 @@ li.completed {
     text-decoration: line-through;
     background-color: #d3ffd3;
 }
+
+
+/* Add this to your style.css */
+.delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .delete-btn:hover {
+    background-color: darkred;
+  }
+  
+  /* Add this to your style.css */
+.completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
